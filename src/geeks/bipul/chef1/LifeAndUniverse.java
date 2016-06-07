@@ -1,8 +1,8 @@
 package geeks.bipul.chef1;
+ 
 
 
-
-public class LifeAndUniverse 
+public class Main 
 {
 	public static void main(String[] args) 
 	{
